@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 aiml and ds
+=======
+
+hii navya sree
+>>>>>>> hh
